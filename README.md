@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jatincha
-- 👀 I’m interested in gaming and we developing
+- 👀 I’m interested in game developing and we developing
 - 🌱 I’m currently learning some programming languages like java and c++
 - 💞️ I’m looking to collaborate on web developers
 - 📫 How to reach me jatin200020@gmail.com
